@@ -19,7 +19,7 @@ Django (version 3.x recommended)
 
 **Clone the repository to your local machine:**
 
-git clone https://github.com/your-username/django-chatbot.git
+git clone https://github.com/VineelaYedlapalli/django_chatbot.git
 cd django-chatbot
 
 **Create a virtual environment (optional but recommended):**
