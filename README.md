@@ -54,6 +54,12 @@ Start interacting with the chatbot. Type your messages in the text input, and th
 
 To deploy the chatbot to a production server, follow the standard Django deployment procedures. Ensure to configure your database settings, static files, and set the DEBUG setting to False for security reasons.
 
+**Results**
+
+In the results page we can find out the results of this projects. When we start the server you'll get an Home page where you have 2 options to get registered and to login. Once you are registered you can chat with the AI. Later we can log =out which will redirected to the login Page. In the admin page we'll have the our past chat data history. In that page admin can perform many operations such as editing the history or user data etc. These data will be saved in SQL Database in the form of Tables.
+
+
+
 **Contributing**
 
 If you'd like to contribute to this project, feel free to submit pull requests or open issues for any improvements or bug fixes.
